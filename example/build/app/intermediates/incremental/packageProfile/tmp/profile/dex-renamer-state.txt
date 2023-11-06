@@ -1,0 +1,4 @@
+#Sun Nov 05 19:21:28 NPT 2023
+base.0=C\:\\Users\\risha\\OneDrive\\Desktop\\SelfFlutter\\Flutter\\example\\build\\app\\intermediates\\dex\\profile\\mergeDexProfile\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
